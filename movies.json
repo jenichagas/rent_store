@@ -1,0 +1,123 @@
+{
+    "Terror": [
+        {
+            "name": "Invocacao do Mal",
+            "year": 2013,
+            "avaliable": true
+        },
+        {
+            "name": "O massacre da serra eletrica",
+            "year": 2003,
+            "avaliable": true,
+            "available": false
+        }
+    ],
+    "Romance": [
+        {
+            "name": "Imagine Eu e Voce",
+            "year": 2026,
+            "avaliable": true
+        },
+        {
+            "name": "As Vantagens de Ser Invisivel",
+            "year": 2012,
+            "avaliable": true
+        },
+        {
+            "name": "A lagoa azul",
+            "year": 1980,
+            "avaliable": true
+        }
+    ],
+    "Fantasia": [
+        {
+            "name": "Duna",
+            "year": 2021,
+            "avaliable": true
+        },
+        {
+            "name": "Harry Potter e a Pedra Filosofal",
+            "year": 2001,
+            "avaliable": true
+        },
+        {
+            "name": "Os Vingadores",
+            "year": 2012,
+            "avaliable": true
+        },
+        {
+            "name": "Star Wars - Uma Nova Esperanca",
+            "year": 1977,
+            "avaliable": true
+        },
+        {
+            "name": "Efeito Borboleta",
+            "year": 2004,
+            "avaliable": true
+        },
+        {
+            "name": "Coringa",
+            "year": 2024,
+            "avaliable": true
+        }
+    ],
+    "Acao": [
+        {
+            "name": "No Limite do Amanha",
+            "year": 2014,
+            "avaliable": true
+        },
+        {
+            "name": "O Resgate",
+            "year": 2020,
+            "avaliable": true
+        },
+        {
+            "name": "The Old Gard",
+            "year": 2020,
+            "avaliable": true
+        }
+    ],
+    "Animacao": [
+        {
+            "name": "Irmao Urso",
+            "year": 2003,
+            "avaliable": true
+        },
+        {
+            "name": "A Era do Gelo",
+            "year": 2002,
+            "avaliable": true
+        },
+        {
+            "name": "Divertidamente",
+            "year": 2015,
+            "avaliable": true
+        },
+        {
+            "name": "Rei leao",
+            "year": 1994,
+            "avaliable": true
+        },
+        {
+            "name": "Coraline",
+            "year": 2009,
+            "avaliable": true
+        },
+        {
+            "name": "A casa monstro",
+            "year": 2006,
+            "avaliable": true
+        },
+        {
+            "name": "Por agua abaixo",
+            "year": 2006,
+            "avaliable": true
+        },
+        {
+            "name": "Rei Leao",
+            "year": 1997,
+            "avaliable": true
+        }
+    ]
+}
